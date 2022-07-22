@@ -1,2 +1,2 @@
 # Hackthon_big_data
-Hackathon
+Hackathon on Big Data
